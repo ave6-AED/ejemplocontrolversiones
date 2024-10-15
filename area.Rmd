@@ -16,5 +16,14 @@ Area<-pi*r^2
 
 ```{r}
 l<-0.5
-Area<-l*l
+AreaCuadrado<-l*l
 ```
+
+
+```{r}
+b<-2
+h<-3
+triangul<-b*h?2
+
+```
+
